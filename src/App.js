@@ -6,10 +6,9 @@ import { New } from './testForm';
 function App() {
   return (
     <section>
-
-      <Basic/>
-      <SignupForm />
+      
       <New />
+      <SignupForm />
 
     </section>
   );
