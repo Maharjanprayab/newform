@@ -1,0 +1,134 @@
+@keyframes ts{
+    0%{
+        background-image: conic-gradient(
+            from 299.65deg,
+            red,
+            orange,
+            yellow,
+            green,
+            blue,
+            indigo,
+            violet
+        ); 
+    }
+    10%{
+        background-image: conic-gradient(
+            from 335.65deg,
+            red,
+            orange,
+            yellow,
+            green,
+            blue,
+            indigo,
+            violet
+        );
+    }
+    20%{
+        background-image: conic-gradient(
+            from 371.65deg,
+            red,
+            orange,
+            yellow,
+            green,
+            blue,
+            indigo,
+            violet
+        );
+    }
+    30%{
+        background-image: conic-gradient(
+            from 407.65deg,
+            red,
+            orange,
+            yellow,
+            green,
+            blue,
+            indigo,
+            violet
+        );
+    }
+    40%{
+        background-image: conic-gradient(
+            from 443.65deg,
+            red,
+            orange,
+            yellow,
+            green,
+            blue,
+            indigo,
+            violet
+        );
+    }
+    50%{
+        background-image: conic-gradient(
+            from 479.65deg,
+            red,
+            orange,
+            yellow,
+            green,
+            blue,
+            indigo,
+            violet
+        );
+    }
+    60%{
+        background-image: conic-gradient(
+            from 515.65deg,
+            red,
+            orange,
+            yellow,
+            green,
+            blue,
+            indigo,
+            violet
+        );
+    }
+    70%{
+        background-image: conic-gradient(
+            from 551.65deg,
+            red,
+            orange,
+            yellow,
+            green,
+            blue,
+            indigo,
+            violet
+        );
+    }
+    80%{
+        background-image: conic-gradient(
+            from 587.65deg,
+            red,
+            orange,
+            yellow,
+            green,
+            blue,
+            indigo,
+            violet
+        );
+    }
+    90%{
+        background-image: conic-gradient(
+            from 623.65deg,
+            red,
+            orange,
+            yellow,
+            green,
+            blue,
+            indigo,
+            violet
+        );
+    }
+    100%{
+        background-image: conic-gradient(
+            from 659.65deg,
+            red,
+            orange,
+            yellow,
+            green,
+            blue,
+            indigo,
+            violet
+        );
+    }
+}

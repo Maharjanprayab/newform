@@ -1,0 +1,45 @@
+body {
+  background-color: #01010a;
+}
+
+section > div > div {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 696px;
+  height: 396px;
+  color: white;
+  text-align: center;
+  background-color: #01010a;
+  /* visibility: hidden; */
+}
+
+section > div {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 700px;
+  height: 400px;
+  box-sizing: border-box;
+  box-shadow: 
+  0 0 7px #fff,
+  0 0 10px #fff,
+  0 0 21px #8f00ff,
+  0 0 42px #7300ff,
+  0 0 84px #6f00ff;
+  background-image: conic-gradient(
+    from 299.65deg,
+    red,
+    orange,
+    yellow,
+    green,
+    blue,
+    indigo,
+    violet
+  );
+  transition: background-image 0.5s linear 0s;
+  animation: ts 5s linear infinite;
+}
+

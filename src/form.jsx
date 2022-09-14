@@ -27,7 +27,7 @@ export const SignupForm = () => {
           {...formik.getFieldProps("email")}
         />
         {formik.touched.email && formik.errors.email && (
-                <div className="error">{formik.errors.email}</div>
+                <div className="errors">{formik.errors.email}</div>
             )}
   
         <button type="submit">Submit</button>

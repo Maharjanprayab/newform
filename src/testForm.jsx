@@ -24,7 +24,7 @@ export const New = () => {
       <h1>New testing place</h1>
       <form onSubmit={formik.handleSubmit}>
         <div className="form-group">
-          <label htmlFor="fname">First name</label>
+          <label htmlFor="fname" id="fname-txt" >First name</label>
           <input type="text"
           name="fname"
           id="fname"
@@ -35,7 +35,7 @@ export const New = () => {
           )}
         </div>
         <div className="form-group">
-            <label htmlFor="lname">Last name</label>
+            <label htmlFor="lname" id="lname-txt" >Last name</label>
             <input type="text"
             name="lname"
             id="lname"
